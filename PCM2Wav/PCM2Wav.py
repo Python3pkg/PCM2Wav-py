@@ -4,7 +4,7 @@
     Date created: 2017
 '''
 # Avoid integer division in python 2
-from __future__ import division, print_function
+
 import struct
 import wave
 from .PCM.PCM import PCM
